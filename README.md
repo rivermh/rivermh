@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=b897ff&height=120&animation=fadeIn" />
+  
 </div>
 
 ## 👋 Hello there, I'm Minho Kang
