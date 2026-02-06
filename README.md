@@ -1,7 +1,3 @@
-<div align="center">
-  
-</div>
-
 ## 👋 Hello there, I'm Minho Kang
 
 Backend-oriented Web Developer  
