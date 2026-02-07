@@ -42,6 +42,17 @@ focused on **Java & Spring Boot**
 
 ---
 
+##  Projects
+
+### [Spring Community Platform](https://github.com/rivermh/Spring-Community-Platform) 
+> **Java & Spring Boot 기반 커뮤니티 플랫폼 개발**
+
+- **Status**: 🚧 **In Progress** (現在、継続的に開発中)
+- **Github**: [![Github](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rivermh/Spring-Community-Platform)
+- **Description**: Spring Boot와 JPA를 활용한 백엔드 중심의 커뮤니티 프로젝트입니다. 자세한 구현 내용은 레포지토리의 README를 확인해주세요.
+
+---
+
 ## 📚 Currently Studying
 
 - Spring Data JPA (Entity relationship mapping)
